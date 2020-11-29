@@ -32,6 +32,7 @@ dependencies:
   flutter_colorpicker: ^0.3.4
   flutter_clean_architecture: ^4.0.2
   http: 0.12.1
+  async: ^2.4.2
 
 
 dev_dependencies:
